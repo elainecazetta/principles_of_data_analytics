@@ -1,6 +1,6 @@
 # Principles of Data Analytics
 
-This repository contains my work for the Principles of Data Analytics module, part of the Science in Computing (Data Analytics) course at Atlantic Technological University (ATU). It includes weekly programming tasks, assignments, and data analysis exercises.
+This repository contains my work for the Principles of Data Analytics module, part of the Science in Computing (Data Analytics) course at Atlantic Technological University (ATU). It includes weekly programming tasks.
 
 ## About This Repository 
  
@@ -16,6 +16,7 @@ To complete these tasks, I use the following tools and libraries:
 - **NumPy**: A library for numerical computing. Documentation [here](https://numpy.org/doc/).  
 - **Matplotlib**: A library for creating static, animated, and interactive visualizations in Python. Documentation [here](https://matplotlib.org/stable/contents.html).  
 - **Scikit-learn**: A machine learning library that includes the Iris dataset used in some tasks. Documentation [here](https://scikit-learn.org/stable/).  
+- **Seaborn**: A Python data visualization library based on matplotlib. Documentation [here](https://seaborn.pydata.org/)
 
 ## How to Run the Code  
 
@@ -41,6 +42,7 @@ To set up your environment and run the code in this repository, follow these ste
 - **Week 1**: Loading and analyzing the Iris dataset using Pandas.  
 - **Week 2**: Reading and analyzing files using Python.  
 - **Week 4**: Generating histograms using Matplotlib.  
+and so on.
 
 ## References  
 - GitHub’s [README best practices](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)  
