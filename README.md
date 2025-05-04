@@ -38,10 +38,17 @@ To set up your environment and run the code in this repository, follow these ste
 4. **Open and run the weekly tasks**  
    - Navigate to the `.ipynb` files and run them in Jupyter Notebook.  
 
-## Weekly Task Examples  
-- **Week 1**: Loading and analyzing the Iris dataset using Pandas.  
-- **Week 2**: Reading and analyzing files using Python.  
-- **Week 4**: Generating histograms using Matplotlib.  
+## Weekly Tasks  
+- **Week 1**: Loaded the Iris dataset using sklearn and explained what load_iris() returns.   
+- **Week 2**: Explored the dataset structure, including shape, feature names, and class labels.   
+- **Week 3**: Calculated summary statistics like mean, median, min, max, and standard deviation.    
+- **Week 4**: Created histograms to visualise the distribution of each feature.   
+- **Week 5**: Plotted a scatter plot for two features with color-coded classes.  
+- **Week 6**: Added a regression line to the scatter plot using NumPy.  
+- **Week 7**: Made boxplots to compare petal lengths across classes.    
+- **Week 8**: Calculated and visualised correlations between features with a heatmap.   
+- **Week 9**: Computed R² for linear regression and added it to the scatter plot.  
+- **Week 10**: Used seaborn’s pairplot to visualise all feature relationships and explained the plot.  
 
 ## References  
 - GitHub’s [README best practices](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)  
